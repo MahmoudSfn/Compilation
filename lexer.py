@@ -1,3 +1,8 @@
+'''
+github: MahmoudSfn
+
+file description: lexer | file code analyser
+'''
 import re
 import sys
 
