@@ -1,5 +1,5 @@
 # Compilation
-projet de complition - Architecture numérique
+projet de compilation - Architecture numérique
 
 
 ## Mise en place Github
