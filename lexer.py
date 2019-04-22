@@ -46,3 +46,28 @@ for line in file:
             found = not True
 
 # print(file.read())
+
+
+
+
+'''
+$ python lexer.py
+
+in line : " () "
+error! position: [ line: 1 ; word: ' () '; word position1 ]
+
+in line : " a = 12 "
+a match to variable
+= match to EqualSign
+12 match to IntegerNumber
+
+in line : " b = 12.3 "
+b match to variable
+= match to EqualSign
+12.3 match to FloatNumber
+
+in line : " c = 3.4 "
+c match to variable
+= match to EqualSign
+3.4 match to FloatNumber
+'''
