@@ -1,5 +1,5 @@
 '''
-    github: MahmoudSfn
+    https://www.github.com/MahmoudSfn
     file description: lexer | file code analyser
     edited at: 22/04/2019    
 '''
