@@ -1,6 +1,7 @@
 '''
     https://www.github.com/MahmoudSfn
-    file description: lexer | file code analyser, based on a regular expression table (to be edited) | then the code analyse a .txt file line by line, word by word, comparing it to the pattern in the regexp table
+    file description: lexer | file code analyser, based on a regular expression table (to be edited) | 
+	then the code analyse a .txt file line by line, word by word, comparing it to the pattern in the regexp table
     edited at: 22/04/2019    
 '''
 import re
